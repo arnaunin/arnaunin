@@ -14,6 +14,8 @@ I'm a 21-year-old **Full-Stack Web Development Master’s Student** at Conquer B
 
 ### Languages and Tools 🛠️
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnaunin&layout=compact&theme=dark)
+
 <br>
 <div display="flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="70px" />
