@@ -3,7 +3,7 @@
 
 ![Banner Arnau GitHub](banner_github_readme.png)  
 
-I'm a 21-year-old **Full-Stack Web Development Master’s Student** at Conquer Blocks Academy. I'm passionate about creating dynamic web applications and exploring the fascinating field of Artificial Intelligence. Welcome to my GitHub profile, where I showcase my projects, share my learning journey, and contribute to the open-source community.
+I'm a 22-year-old **Full-Stack Web Development Master’s Student** at Conquer Blocks Academy. I'm passionate about creating dynamic web applications and exploring the fascinating field of Artificial Intelligence. Welcome to my GitHub profile, where I showcase my projects, share my learning journey, and contribute to the open-source community.
 
 ---
 
