@@ -1,22 +1,25 @@
-## Hi there, I'm Arnau Nin 👨🏻‍💻
-### Full-Stack Web Development Student at Conquer Blocks🚀
+## 👨🏻‍💻 Hi there, I'm Arnau Nin  
+### 🚀 Full-Stack Web Development Student at Conquer Blocks
 
-![Banner Arnau GitHub](banner_github_readme.png)  
+![Banner Arnau GitHub](banner_github_readme.png)
 
-I'm a 22-year-old **Full-Stack Web Development Master’s Student** at Conquer Blocks Academy. I'm passionate about creating dynamic web applications and exploring the fascinating field of Artificial Intelligence. Welcome to my GitHub profile, where I showcase my projects, share my learning journey, and contribute to the open-source community.
+> _“Full-Stack Developer focused on clean architectures and real-world solutions.”_
+
+I'm a 22-year-old **Full-Stack Web Development Master's Student** at Conquer Blocks Academy. I'm passionate about creating dynamic web applications and exploring the fascinating world of **Artificial Intelligence**.  
+Welcome to my GitHub profile — here I share my learning journey, personal projects, and contributions to open-source.
 
 ---
 
-### About me 🔍
-- 🎓 **Current Study:** Pursuing a Master's in Full-Stack Web Development at [Conquer Blocks Academy](https://www.conquerblocks.com/).
-- 🤖 **Interest in AI:** Deeply interested in Artificial Intelligence and its applications.
-- 🌟 **Passionate Developer:** Eager to build scalable web applications and enhance user experiences through innovative solutions.
+## 🔍 About Me
+- 🎓 **Current Study:** Master's in Full-Stack Web Development @ [Conquer Blocks Academy](https://www.conquerblocks.com/)  
+- 🤖 **Interest:** Artificial Intelligence & modern development workflows  
+- 🌱 **Mindset:** Always learning, always building  
+- ⚡ **Goal:** Become a strong full-stack engineer capable of leading real-world projects  
 
-### Languages and Tools you can find in my Profile🛠️
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnaunin&layout=compact&theme=dark)
+## 🛠️ Languages & Tools I Work With
 
-<br>
 <div display="flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="70px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="70px" />
@@ -34,30 +37,29 @@ I'm a 22-year-old **Full-Stack Web Development Master’s Student** at Conquer B
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="70px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="70px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="70px" />
-  
 </div>
-<br>
-                    
-### How to reach me 📫
-- <a href="https://www.linkedin.com/in/arnau-nin-perez-5b08a52a2/">Linkedin</a>
-- <a href="mailto:ninbsnss92@gmail.com">ninsbsnss92@gmail.com</a>
-- <a href="https://www.instagram.com/arnaunin/">Instagram</a>
 
-<br>
+---
 
-**I hope you enjoy and find something useful**
+## 📊 Most Used Languages
 
-<!--
-**arnaunin/arnaunin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=arnaunin&layout=compact&theme=tokyonight)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=arnaunin&show_icons=true&theme=tokyonight&hide_title=true)
+
+---
+
+## 📫 How to Reach Me
+- 🌐 [LinkedIn](https://www.linkedin.com/in/arnau-nin-perez-5b08a52a2/)  
+- 📩 [Email](mailto:ninbsnss92@gmail.com)
+- 📸 [Instagram](https://www.instagram.com/arnaunin/)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=arnaunin&color=blueviolet)
+
+**Thanks for visiting — hope you find something useful!** ✨
