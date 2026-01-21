@@ -41,17 +41,17 @@ Welcome to my GitHub profile — here I share my learning journey, personal proj
 
 ---
 
-## 📊 Most Used Languages
+## 📊 Github Stats
 
-![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=arnaunin&layout=compact&theme=tokyonight)
-
+[![Arnau GitHub stats](https://github-readme-stats.vercel.app/api?username=arnaunin)](https://github.com/arnaunin/github-readme-stats)
 ---
 
-## 📈 GitHub Stats
+## 🖊️​ Most used languages
 
-![Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=arnaunin&show_icons=true&theme=tokyonight&hide_title=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnaunin)
 ---
+
+
 
 ## 📫 How to Reach Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/arnau-nin-perez-5b08a52a2/)  
