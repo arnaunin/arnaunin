@@ -41,18 +41,6 @@ Welcome to my GitHub profile — here I share my learning journey, personal proj
 
 ---
 
-## 📊 Github Stats
-
-[![Arnau GitHub stats](https://github-readme-stats.vercel.app/api?username=arnaunin)](https://github.com/arnaunin/github-readme-stats)
----
-
-## 🖊️​ Most used languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnaunin)
----
-
-
-
 ## 📫 How to Reach Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/arnau-nin-perez-5b08a52a2/)  
 - 📩 [Email](mailto:ninbsnss92@gmail.com)
